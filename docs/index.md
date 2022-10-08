@@ -3,11 +3,7 @@
 <img src="img/team.png" style="float:right" width="200" height="200"> <b><font size=5 face="Arial">Directed evolution of carbonic anhydrase to improve microbial induced calcium carbonate precipitation (MICP) efficienc</b></font>
 </p>
 
-***
-
->This wiki template was built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). You are by no means confined to use this template. In fact, you are encouraged to build your own unique **static site** that best suits your project, and you are free to use any framework you like.</br>
 </br>
-Should you decide to use this wiki, however, we have a [tutorial](https://wiki.idec.io/team_wiki/mkdocs/) to walk you through the basics.
 
 
 <font size=4>

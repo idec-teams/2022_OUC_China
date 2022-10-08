@@ -6,6 +6,10 @@
 ---
 
 <b><font size=4 color='skyblue' face='Arial'>Zixiang Zhong</font></b></br>
+</br>
+![zixiang image](img/zhong.jpg){ width=200px }</br>
+</br>
+Zixiang Zhong, a junior of OUC, who is an entry-level photography enthusiast, likes to see the sea at sunrise, likes sunny or snowy days, and hates rainy days. He is the captain of this year's OUC_China and a member of the last iDEC team. It is the first time he acts as a team leader. A tough trying, but he still enjoy it.  He plans to study for doctorate next year—— as for the major, he is now interested in the development and evolution of protozoa, but who knows what the future holds?
 
 </br>
 
@@ -14,10 +18,16 @@
 ---
 
 <b><font size=4 color='skyblue' face='Arial'>Duo Hou</font></b></br>
-
+</br>
+![houduo image](img/hou.jpg){ width=200px }</br>
+</br>
+Duo Hou, a college student majoring in biological sciences. Although the major is keeping him from getting a job, he still loves it deeply. "I think you do too", he said. Let's burn our lives together for life science.
 
 <b><font size=4 color='skyblue' face='Arial'>Haoran Wang</font></b></br>
-
+</br>
+![haoran image](img/wang.jpg){ width=250px }</br>
+</br>
+Haoran Wang, a junior student in Ocean University of China, majors in Biological Science. Interested in genetics and molecular biology, he joined the university's key laboratory of marine genetics and breeding in his sophomore year. He is currently involved in breeding Mulinia Lateralis and screening their genes for temperature tolerance traits. It was by chance that he learnt about this competition from schoolmate and decided to learn more about these interesting directed evolutionary systems.
 
 <b><font size=4 color='skyblue' face='Arial'>Jingting Hao</font></b></br>
 </br>
@@ -79,3 +89,4 @@ Lin Jiawen.She is a junior student majoring in Biological science in Colege of M
 </br>
 ![tutor image](img/tutor.jpg){ width=200px }</br>
 </br>
+Xianghong Wang, Ph.D., senior engineer, master tutor, graduated from The Department of Marine Biology, Ocean University of China, deputy director of the Marine Life Science Experimental Teaching Demonstration Center, Ocean University of China, and secretary of the Party Branch of the Center. His research interests include Marine yeast resources, physiology and biochemistry, genetics and application, Marine beneficial bacteria, Marine bacterial diversity and active substances.

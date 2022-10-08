@@ -29,7 +29,7 @@ Therefore, the rapid deposition of biologically induced calcium carbonate minera
 
 
 
-<font size=5>**Our Aims**</font></br>
+<font size=5>**Our Goal**</font></br>
 
 MICP research has been focused on screening strains with higher urease activity<sup>[13]</sup>, in order to quickly produce CO<sub>3</sub><sup>2–</sup> by accelerating the decomposition of urea, but the activity of carbonic anhydrase of the strain has been ignored. This study attempts to improve the activity of carbonic anhydrase by means of error-prone PCR to explore the effect of the increase of carbonic anhydrase activity on the mineralization rate of microbial cement.
 

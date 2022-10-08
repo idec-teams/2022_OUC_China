@@ -16,7 +16,7 @@ mASCA gene was amplified by PCR reaction system with 50μL solution using the sy
 | pF | 1μL |
 | bacteria solution | 3μL |
 
-Synthesis Pcrocess:</br>
+Thermocycling Conditions For PCR:</br>
 
 |     | Temperature | Time | Cycle |
 | :-: | :-: | :-: | :-: |
@@ -61,7 +61,6 @@ The PCR product and plasmid pETDuet-1 were purified by DNA purification kit and 
     - Collect supernatant for enzyme activity determination
 - Carbonic anhydrase activity was determined by p-NPA method.
 
-</br>
 
 Measuring the absorbance value at 348nm to calculated the enzyme activity. 
 
@@ -85,7 +84,7 @@ The reaction systems with mASCA template concentrations of 1ng/μL and 10ng/μL 
 | pR | 1μL |
 | pF | 1μL |
 
-Synthesis Pcrocess:</br>
+Thermocycling Conditions For PCR:</br>
 
 |     | Temperature | Time | Cycle |
 | :-: | :-: | :-: | :-: |
