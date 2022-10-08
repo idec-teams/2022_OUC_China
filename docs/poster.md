@@ -4,4 +4,4 @@
 
 </br>
 
-- [Report.pdf](files/idec_ouc_poster.pdf){: target="_blank" }
+- [Poster.pdf](files/idec_ouc_poster.pdf){: target="_blank" }
