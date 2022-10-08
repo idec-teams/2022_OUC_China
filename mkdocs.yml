@@ -6,7 +6,7 @@ theme:
   favicon: img/idec-wiki-logo.png
 
   palette:
-    primary: sky blue
+    primary: light green
     accent: blue
 
   features:
@@ -41,10 +41,17 @@ copyright: Copyright &copy; 2022 iDEC. CC-BY-4.0 | The International Directed Ev
 nav:
   - Home: index.md
   - Team: team.md
+  
   - Project:
-      - Background: project/background.md
-      - Results: project/results.md
+      - Poster: poster.md
+      - Background: background.md
+      - Results:
+          - Bioinformatics Analysis: bioinfo.md
+          - Physical and Chemical Properties of mASCA: masca.md
+          - Error-prone PCR Results: eppcr.md
+        
   - Documentation:
+      - Report: report.md  
+      - Supplementary: supplementary.md
       - Protocols: documentation/protocols.md
       - Lab notebook: documentation/notebook.md
-  - Some useful features: useful_features.md
