@@ -11,6 +11,7 @@
 </br>
 Zixiang Zhong, a junior of OUC, who is an entry-level photography enthusiast, likes to see the sea at sunrise, likes sunny or snowy days, and hates rainy days. He is the captain of this year's OUC_China and a member of the last iDEC team. It is the first time he acts as a team leader. A tough trying, but he still enjoy it.  He plans to study for doctorate next year—— as for the major, he is now interested in the development and evolution of protozoa, but who knows what the future holds?
 
+
 </br>
 
 <b><font size=5>Team Players</font></b></br>
