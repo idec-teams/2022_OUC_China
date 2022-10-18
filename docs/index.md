@@ -1,6 +1,6 @@
 # iDEC 2022 | OUC_China
 <p>
-<img src="img/team.png" style="float:right" width="200" height="200"> <b><font size=5 face="Arial">Directed evolution of carbonic anhydrase to improve microbial induced calcium carbonate precipitation (MICP) efficienc</b></font>
+<img src="img/team.png" style="float:right" width="200" height="200"> <b><font size=5 face="Arial">Directed evolution of carbonic anhydrase to improve microbial induced calcium carbonate precipitation (MICP) efficiency</b></font>
 </p>
 
 </br>
